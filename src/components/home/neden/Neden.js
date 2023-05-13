@@ -19,7 +19,6 @@ export default class Neden extends Component {
                     <div className="col-12">
                     <p style={{color:"#2FA8BC",textAlign:"center",fontSize:"20px"}}>Neden Kayseri Blue Liva Güzellik Salonu</p>
                     <br/>
-                    <br/>
                     </div>
                    
                    
