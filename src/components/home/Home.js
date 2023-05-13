@@ -17,7 +17,7 @@ function Home() {
             textAlign: "center",
             fontSize: "x-large",
             marginTop: "1rem",
-            color: "#b22e86",
+            color: "#2FA8BC",
             fontFamily: "sans-serif",
           }}
         >
@@ -44,7 +44,7 @@ function Home() {
           style={{
             textAlign: "center",
             fontSize: "x-large",
-            color: "#b22e86",
+            color: "#2FA8BC",
             fontFamily: "sans-serif",
           }}
         >
@@ -60,7 +60,7 @@ function Home() {
           style={{ marginTop: "2.5rem" }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d673.536092323585!2d35.484601409222044!3d38.725005275567405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152b134692e3f88b%3A0x986547702b172bba!2sE&#39;liva%20Beauty%20Kayseri!5e0!3m2!1str!2str!4v1683409452023!5m2!1str!2str"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12450.75228344756!2d35.485385!3d38.72497!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152b135af81a1eb7%3A0x485f7f583a548542!2sKayseri%20Blue%20Liva%20G%C3%BCzellik%20Merkezi!5e0!3m2!1str!2str!4v1683935700750!5m2!1str!2str"
             className="googleharita"
             style={{
               width: "100%",
@@ -70,7 +70,7 @@ function Home() {
               referrerpolicy: "no-referrer-when-downgrade",
               ariaHidden: "false",
               tabIndex: "0",
-              border: "2px #b22e86 solid",
+              border: "2px #2FA8BC solid",
               paddingBottom: "0.5rem",
               paddingTop: "0.5rem",
             }}

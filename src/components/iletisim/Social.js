@@ -20,14 +20,14 @@ function Iletisim() {
     <div className="row">
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://goo.gl/maps/LWKTkdJDFEzxsKtQ7?coh=178571&entry=tt"
+          href="https://goo.gl/maps/BPWdKU3q8phsNBadA"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img src={i1} className="contactIcons" title="Adres için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-          <span style={{color:"#E4439E"}}><b>Adres:</b></span><br/>
+          <span style={{color:"#2B7785"}}><b>Adres:</b></span><br/>
           Gevhernesibe Mah. İstasyon Cad. No: 27/44 Kuşoğlu Plaza, 38010  <br/> <b>Kocasinan / Kayseri </b>
         </p>
       </div>
@@ -40,14 +40,14 @@ function Iletisim() {
           <img src={i2} className="contactIcons" title="Rezervasyon için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>Rezervasyon:</b></span><br/>
+        <span style={{color:"#2B7785"}}><b>Rezervasyon:</b></span><br/>
           <b>0501 116 38 38</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <img src={i3} className="contactIcons" title="Çalışma Saatleri"></img>
         <p className="contactText">
-         <span style={{color:"#E4439E"}}><b>Çalışma Saatleri:</b></span><br/>
+         <span style={{color:"#2B7785"}}><b>Çalışma Saatleri:</b></span><br/>
           Her Gün: 09:00 – 19:00
         </p>
       </div>
@@ -56,29 +56,29 @@ function Iletisim() {
           <img src={i4} className="contactIcons" title="WhatsApp için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>WhatsApp:</b></span><br/>
+        <span style={{color:"#2B7785"}}><b>WhatsApp:</b></span><br/>
           <b>0501 116 38 38</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
-        <a href="https://www.instagram.com/elivabeauty.kayseri/" target="_blank">
+        <a href="https://www.instagram.com/bluelivakayseri/" target="_blank">
           <img src={i5} className="contactIcons" title="Instagram için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>Instagram:</b></span><br/>
-          @elivabeauty.kayseri
+        <span style={{color:"#2B7785"}}><b>Instagram:</b></span><br/>
+          @bluelivakayseri
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://www.facebook.com/elivabeautykayseri"
+          href="https://www.facebook.com/bluelivakayseri/"
           target="_blank"
         >
           <img src={i6} className="contactIcons" title="Facebook için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>Facebook:</b></span><br/>
-          @elivabeautykayseri
+        <span style={{color:"#2B7785"}}><b>Facebook:</b></span><br/>
+          @bluelivakayseri
         </p>
       </div>
     </div>

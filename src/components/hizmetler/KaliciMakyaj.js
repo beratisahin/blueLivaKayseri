@@ -4,7 +4,7 @@ import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
 
 export default function BikiniBolgesi() {
-  useDocumentTitle("Ankara Kalıcı Makyac");
+  useDocumentTitle("Kayseri Kalıcı Makyaj - Blue Liva Güzellik Salonu");
   return (
     <div className="col-12">
       <div

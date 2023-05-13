@@ -4,7 +4,7 @@ import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
 
 export default function HydrafacialCiltBakimi() {
-    useDocumentTitle('Hydrafacial Cilt Bakımı- Kayseri Eliva Beauty Güzellik Salonu');
+    useDocumentTitle('Hydrafacial Cilt Bakımı- Kayseri Blue Liva Güzellik Güzellik Salonu');
     return (
         <div className="col-12">
             <div className="card m-4" style={{align:"center",backgroundColor:"#f8f7fb",borderRadius:"5px"}}>

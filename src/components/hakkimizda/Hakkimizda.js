@@ -4,7 +4,7 @@ import useDocumentTitle from "../../useDocumentTitle.js";
 import Title from "../title/Title";
 
 function Hakkimizda() {
-  useDocumentTitle("Kayseri Eliva Beauty Güzellik Salonu");
+  useDocumentTitle("Kayseri Blue Liva Güzellik Güzellik Salonu");
   return (
     <div className="col-12">
       <div
@@ -43,7 +43,7 @@ function Hakkimizda() {
           </p>
 
           <p class="hizmetyazi">
-            Kayseri Eliva Beauty Güzellik Salonu olarak Lazer Epilasyon, G5
+            Kayseri Blue Liva Güzellik Güzellik Salonu olarak Lazer Epilasyon, G5
             Masajı, Kavitasyon, Kirpik Lifting, Yosun Peeling,
             Hydrafacial Cilt Bakımı hizmetlerimiz mevcuttur. Kampanyalarımız ve
             detaylar için sosyal medya hesaplarımızı takipte kalın. Kayseri
@@ -62,7 +62,7 @@ function Hakkimizda() {
         </div>
        
                
-                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/elivabeauty.Kayseri/" target="_blank">Kayseri Eliva Beauty Güzellik Salonu</a> instagram profilimizi ziyaret edebilirsiniz. </p>
+                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/bluelivakayseri/" target="_blank">Kayseri Blue Liva Güzellik Güzellik Salonu</a> instagram profilimizi ziyaret edebilirsiniz. </p>
                
            
       </div>

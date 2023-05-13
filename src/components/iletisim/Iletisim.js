@@ -13,7 +13,7 @@ import i3 from "./3.webp";
 import i4 from "./4.webp";
 
 function Iletisim() {
-  useDocumentTitle("İletişim - Kayseri Eliva Beauty Güzellik Salonu ");
+  useDocumentTitle("İletişim - Kayseri Blue Liva Güzellik Güzellik Salonu ");
   return (
     <div className="col-12">
       <div
@@ -66,7 +66,7 @@ function Iletisim() {
 
       <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d673.536092323585!2d35.484601409222044!3d38.725005275567405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152b134692e3f88b%3A0x986547702b172bba!2sE&#39;liva%20Beauty%20Kayseri!5e0!3m2!1str!2str!4v1683409452023!5m2!1str!2str"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12450.75228344756!2d35.485385!3d38.72497!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152b135af81a1eb7%3A0x485f7f583a548542!2sKayseri%20Blue%20Liva%20G%C3%BCzellik%20Merkezi!5e0!3m2!1str!2str!4v1683935700750!5m2!1str!2str"
           className="googleharita"
           style={{
             width: "100%",
