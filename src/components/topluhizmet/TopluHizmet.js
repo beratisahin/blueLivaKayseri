@@ -50,7 +50,7 @@ export default class TopluHizmet extends Component {
           <Taslak
             taslaktitle="Lazer Epilasyon"
             taslakphoto={m5}
-            taslaktext="Kayseri Blue Liva Güzelik Salonuu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Kayseri Blue Liva Güzelik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/lazer-epilasyon"
           />
           <Send />
@@ -59,7 +59,7 @@ export default class TopluHizmet extends Component {
           <Taslak
             taslaktitle="Yosun Peeling"
             taslakphoto={m7}
-            taslaktext="Kayseri Blue Liva Güzelik Salonuu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Kayseri Blue Liva Güzelik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/yosun-peeling"
           />
           <Send />
@@ -69,7 +69,7 @@ export default class TopluHizmet extends Component {
           <Taslak
             taslaktitle="Hydrafacial Cilt Bakımı"
             taslakphoto={m3}
-            taslaktext="Kayseri Blue Liva Güzelik Salonuu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Kayseri Blue Liva Güzelik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/hydrafacial-cilt-bakimi"
           />
           <Send />
@@ -78,7 +78,7 @@ export default class TopluHizmet extends Component {
           <Taslak
             taslaktitle="G5 Masajı - Kavitasyon"
             taslakphoto={m4}
-            taslaktext="Kayseri Blue Liva Güzelik Salonuu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Kayseri Blue Liva Güzelik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/g5-kavitasyon"
           />
           <Send />
@@ -87,7 +87,7 @@ export default class TopluHizmet extends Component {
           <Taslak
             taslaktitle="Kirpik Lifting"
             taslakphoto={m1}
-            taslaktext="Kayseri Blue Liva Güzelik Salonuu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Kayseri Blue Liva Güzelik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/kirpik-lifting"
           />
           <Send />
@@ -96,7 +96,7 @@ export default class TopluHizmet extends Component {
           <Taslak
             taslaktitle="Kaş Laminasyonu "
             taslakphoto={m6}
-            taslaktext="Kayseri Blue Liva Güzelik Salonuu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Kayseri Blue Liva Güzelik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/kas-laminasyonu"
           />
           <Send />

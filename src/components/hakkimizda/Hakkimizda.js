@@ -47,7 +47,7 @@ function Hakkimizda() {
             Masajı, Kavitasyon, Kirpik Lifting, Yosun Peeling,
             Hydrafacial Cilt Bakımı hizmetlerimiz mevcuttur. Kampanyalarımız ve
             detaylar için sosyal medya hesaplarımızı takipte kalın. Kayseri
-            Blue Liva Güzelik Salonuu olarak şehrin merkezinde bulunan
+            Blue Liva Güzelik Salonu olarak şehrin merkezinde bulunan
             salonumuzda siz değerli müşterilerimize hizmet vermekteyiz. Bayanlar
             ve baylar için epilasyon ve cilt bakım hizmetlerimiz bulunmaktadır.
             Erkekler için ense, boyun, yanak, göbek, göğüs, sırt ve kol
